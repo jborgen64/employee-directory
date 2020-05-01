@@ -92,23 +92,23 @@
   },
   {
     "id": 14,
-    "name": "Patrick Mahomes",
-    "occupation": "CEO",
-    "department": "Leadership",
+    "name": "Drew Boo",
+    "occupation": "Sales Manager",
+    "department": "Sales",
     "location": "Kansas City"
   },
   {
     "id": 15,
-    "name": "Patrick Mahomes",
-    "occupation": "CEO",
-    "department": "Leadership",
+    "name": "Sara Bara",
+    "occupation": "Accountant",
+    "department": "Accounting",
     "location": "Kansas City"
   },
   {
     "id": 16,
-    "name": "Patrick Mahomes",
-    "occupation": "CEO",
-    "department": "Leadership",
+    "name": "Pam Bam",
+    "occupation": "Engineer",
+    "department": "Engineering",
     "location": "Kansas City"
   }
 ]
