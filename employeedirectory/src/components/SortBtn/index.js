@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function DallasFilterBtn(props) {
+function SortBtn(props) {
   return (
     <button onClick={() => props.handleSort(props.name)} className="filter btn btn-primary">
         Sort Alphabetically
@@ -9,4 +9,4 @@ function DallasFilterBtn(props) {
   );
 }
 
-export default DallasFilterBtn;
+export default SortBtn;
